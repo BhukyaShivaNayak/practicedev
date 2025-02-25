@@ -19,6 +19,10 @@ console.log("Hello This is a devops practice one");
 console.log("Hello This is a devops practice one");
 
 
+console.log("Added changes in the index file");
+
+
+
 
 
 // Connect to MongoDB
